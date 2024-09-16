@@ -4,11 +4,11 @@ Here is a Trendyol app, one of the most popular e-commerce platforms in Turkey, 
 
 ## Tech Stack
 
-axios
-@reduxjs/toolkit
-react-redux
-iconsax
-react navigation
+- axios
+- @reduxjs/toolkit
+- react-redux
+- iconsax
+- react navigation
 
 ![](trendyolClone.gif)
 # trendyolClone
